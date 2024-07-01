@@ -17,9 +17,20 @@ Below are my “formal” work experiences.
 
 ## TL;DR
 
-- [Outreachy Intern](https://www.outreachy.org/alums/2024-05/) | May 2024 - Present | [Wikimedia Foundation](https://wikimediafoundation.org/)
-- [Research Intern](https://cps.iic.ac.in/index.php/people/) | Feb 2024 - April 2024 | [CyPSi Laboratory](https://cps.iic.ac.in/)
-- [Artificial Intelligence Intern](https://iotiot.in/aiinternship/) | Oct 2023 - Jan 2024 | [IoTIoT.in](https://iotiot.in/)
+### Outreachy Intern
+**Organization:** [Wikimedia Foundation](https://wikimediafoundation.org/)  
+**Duration:** May 2024 - Present  
+**Link:** [Outreachy Intern](https://www.outreachy.org/alums/2024-05/)
+
+### Research Intern
+**Organization:** [CyPSi Laboratory](https://cps.iic.ac.in/)  
+**Duration:** Feb 2024 - April 2024  
+**Link:** [Research Intern](https://cps.iic.ac.in/index.php/people/)
+
+### Artificial Intelligence Intern
+**Organization:** [IoTIoT.in](https://iotiot.in/)  
+**Duration:** Oct 2023 - Jan 2024  
+**Link:** [Artificial Intelligence Intern](https://iotiot.in/aiinternship/)
 
 ---
 
@@ -31,6 +42,3 @@ Below are my “formal” work experiences.
 **Duration:** May 2024 - Present | Remote
 
 - Developing a data visualization tool for tracking the quality evolution of Wikipedia articles maintained by different WikiProjects.
-
----
-
