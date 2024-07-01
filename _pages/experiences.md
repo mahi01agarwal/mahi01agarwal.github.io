@@ -7,9 +7,7 @@ redirect_from:
   - /experience
 ---
 
-{% include base_path %}
-
-# Experiences
+<!-- {% include base_path %} -->
 
 Below are my “formal” work experiences. 
 ---
