@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://medium.com/@agarwalmahima01
     
   - title: "CV"
     url: /files/Mahima_Agarwal_CV.pdf
