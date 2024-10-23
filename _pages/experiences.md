@@ -17,9 +17,14 @@ Below are my “formal” work experiences.
 
 ## TL;DR
 
+### Open Source Developer
+**Organization:** [Wikimedia Foundation](https://wikimediafoundation.org/)  
+**Duration:** Sep 2024 - Present
+**Link:**[Volunteer Open Source Developer](https://phabricator.wikimedia.org/p/MahimaSinghal/)
+
 ### Outreachy Intern
 **Organization:** [Wikimedia Foundation](https://wikimediafoundation.org/)  
-**Duration:** May 2024 - Present  
+**Duration:** May 2024 - Aug 2024
 **Link:** [Outreachy Intern](https://www.outreachy.org/alums/2024-05/)
 
 ### Research Intern
@@ -39,6 +44,5 @@ Below are my “formal” work experiences.
 ### [Outreachy](https://www.outreachy.org/alums/2024-05/), [Wikimedia Foundation](https://wikimediafoundation.org/)
 
 **Mentor:** Pablo Aragón, Isaac Johnson, and Caroline Myrick (Wikimedia Foundation)  
-**Duration:** May 2024 - Present | Remote
+**Duration:** May 2024 - AUg 2024| Remote
 
-- Developing a data visualization tool for tracking the quality evolution of Wikipedia articles maintained by different WikiProjects.
